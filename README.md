@@ -29,7 +29,6 @@ Hello, I'm Chi,
 </p>
 <br>                                     <br>
 <br>                                     <br>
-<br>                                     <br>
 
 ## Catch my state?
 
