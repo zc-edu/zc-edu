@@ -24,7 +24,7 @@ Hello, I'm Chi,
 <p>  <img align="left" src="https://github-profile-trophy.vercel.app/?username=zc-edu&theme=onedark&column=-1&margin-w=15" /></p>
 
 <br>
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zc-edu&theme=merko&custom_title=Chi%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/zc-edu)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zc-edu&theme=merko&custom_title=Chi&hide_border=true&point=FFFFFF&days=50)](https://github.com/zc-edu)
 
 <br>
 
