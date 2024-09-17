@@ -18,7 +18,8 @@ Hello, I'm Chi,
 - 🔭 I’m currently working on improving my coding ability~
 - 🌱 I’m currently learning how to use deep learning~
 
-![Hello GIF](https://media.giphy.com/media/xUPGcsHLSbE7PZCOxq/giphy.gif)
+![Hello GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 
 <p>  <img align="left" src="https://github-profile-trophy.vercel.app/?username=zc-edu&theme=onedark&column=-1&margin-w=15" /></p>
 ## GitHub 活动图
