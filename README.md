@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on improving my coding ability~
-🌱 I’m currently learning how to use deep learning~
+- 🔭 I’m currently working on improving my coding ability~
+- 🌱 I’m currently learning how to use deep learning~
 <p>  <img align="left" src="https://github-profile-trophy.vercel.app/?username=zc-edu&theme=onedark&column=-1&margin-w=15" /></p>
 ## GitHub 活动图
 
