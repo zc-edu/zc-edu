@@ -36,7 +36,7 @@ Hello, I'm Chi,
 
 ## My languages
 
-![Top Langs](https://www.vectorlogo.zone/logos/python/python-vertical.svg)
+![Top Langs]([https://www.vectorlogo.zone/logos/python/python-vertical.svg][https://www.vectorlogo.zone/logos/java/java-vertical.svg])
 
 
 ### Stats
