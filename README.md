@@ -27,7 +27,7 @@ Hello, I'm Chi,
 <p>
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=LouisLiu00&theme=onedark&column=-1&margin-w=15" />
 </p>
-<br>
+<br><br>
 
 ## Catch my state?
 
