@@ -24,7 +24,9 @@ Hello, I'm Chi,
 
 ## Achievement
 
-一些你想展示的成就内容可以在这里放置，比如完成的项目、证书等。
+<p>
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=LouisLiu00&theme=onedark&column=-1&margin-w=15" />
+</p>
 
 ## Catch my state?
 
