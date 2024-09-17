@@ -36,7 +36,7 @@ Hello, I'm Chi,
 
 ## My languages
 
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=zc-edu&layout=compact&theme=radical](https://www.vectorlogo.zone/logos/python/python-vertical.svg))
+![Top Langs](https://www.vectorlogo.zone/logos/python/python-vertical.svg)
 
 
 ### Stats
